@@ -1,0 +1,14 @@
+C:\Users\ksandoval\source\repos\prjCalcKennethSandoval\prjCalcKennethSandoval\bin\Debug\net8.0\prjCalcKennethSandoval.exe
+C:\Users\ksandoval\source\repos\prjCalcKennethSandoval\prjCalcKennethSandoval\bin\Debug\net8.0\prjCalcKennethSandoval.deps.json
+C:\Users\ksandoval\source\repos\prjCalcKennethSandoval\prjCalcKennethSandoval\bin\Debug\net8.0\prjCalcKennethSandoval.runtimeconfig.json
+C:\Users\ksandoval\source\repos\prjCalcKennethSandoval\prjCalcKennethSandoval\bin\Debug\net8.0\prjCalcKennethSandoval.dll
+C:\Users\ksandoval\source\repos\prjCalcKennethSandoval\prjCalcKennethSandoval\bin\Debug\net8.0\prjCalcKennethSandoval.pdb
+C:\Users\ksandoval\source\repos\prjCalcKennethSandoval\prjCalcKennethSandoval\obj\Debug\net8.0\prjCalcKennethSandoval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ksandoval\source\repos\prjCalcKennethSandoval\prjCalcKennethSandoval\obj\Debug\net8.0\prjCalcKennethSandoval.AssemblyInfoInputs.cache
+C:\Users\ksandoval\source\repos\prjCalcKennethSandoval\prjCalcKennethSandoval\obj\Debug\net8.0\prjCalcKennethSandoval.AssemblyInfo.cs
+C:\Users\ksandoval\source\repos\prjCalcKennethSandoval\prjCalcKennethSandoval\obj\Debug\net8.0\prjCalcKennethSandoval.csproj.CoreCompileInputs.cache
+C:\Users\ksandoval\source\repos\prjCalcKennethSandoval\prjCalcKennethSandoval\obj\Debug\net8.0\prjCalcKennethSandoval.dll
+C:\Users\ksandoval\source\repos\prjCalcKennethSandoval\prjCalcKennethSandoval\obj\Debug\net8.0\refint\prjCalcKennethSandoval.dll
+C:\Users\ksandoval\source\repos\prjCalcKennethSandoval\prjCalcKennethSandoval\obj\Debug\net8.0\prjCalcKennethSandoval.pdb
+C:\Users\ksandoval\source\repos\prjCalcKennethSandoval\prjCalcKennethSandoval\obj\Debug\net8.0\prjCalcKennethSandoval.genruntimeconfig.cache
+C:\Users\ksandoval\source\repos\prjCalcKennethSandoval\prjCalcKennethSandoval\obj\Debug\net8.0\ref\prjCalcKennethSandoval.dll

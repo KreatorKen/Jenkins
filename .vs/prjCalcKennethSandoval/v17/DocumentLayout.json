@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ksandoval\\source\\repos\\prjCalcKennethSandoval\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BB1787-927A-4A51-8376-529B1E474202}|CalculadoraTest\\CalculadoraTest.csproj|c:\\users\\ksandoval\\source\\repos\\prjcalckennethsandoval\\calculadoratest\\calculadoraut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8BB1787-927A-4A51-8376-529B1E474202}|CalculadoraTest\\CalculadoraTest.csproj|solutionrelative:calculadoratest\\calculadoraut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B48CB8-06E8-4930-82DD-586779E6212D}|prjCalcKennethSandoval\\prjCalcKennethSandoval.csproj|c:\\users\\ksandoval\\source\\repos\\prjcalckennethsandoval\\prjcalckennethsandoval\\clscalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B48CB8-06E8-4930-82DD-586779E6212D}|prjCalcKennethSandoval\\prjCalcKennethSandoval.csproj|solutionrelative:prjcalckennethsandoval\\clscalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B48CB8-06E8-4930-82DD-586779E6212D}|prjCalcKennethSandoval\\prjCalcKennethSandoval.csproj|c:\\users\\ksandoval\\source\\repos\\prjcalckennethsandoval\\prjcalckennethsandoval\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B48CB8-06E8-4930-82DD-586779E6212D}|prjCalcKennethSandoval\\prjCalcKennethSandoval.csproj|solutionrelative:prjcalckennethsandoval\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculadoraUT.cs",
+              "DocumentMoniker": "C:\\Users\\ksandoval\\source\\repos\\prjCalcKennethSandoval\\CalculadoraTest\\CalculadoraUT.cs",
+              "RelativeDocumentMoniker": "CalculadoraTest\\CalculadoraUT.cs",
+              "ToolTip": "C:\\Users\\ksandoval\\source\\repos\\prjCalcKennethSandoval\\CalculadoraTest\\CalculadoraUT.cs",
+              "RelativeToolTip": "CalculadoraTest\\CalculadoraUT.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T01:06:20.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsCalculadora.cs",
+              "DocumentMoniker": "C:\\Users\\ksandoval\\source\\repos\\prjCalcKennethSandoval\\prjCalcKennethSandoval\\clsCalculadora.cs",
+              "RelativeDocumentMoniker": "prjCalcKennethSandoval\\clsCalculadora.cs",
+              "ToolTip": "C:\\Users\\ksandoval\\source\\repos\\prjCalcKennethSandoval\\prjCalcKennethSandoval\\clsCalculadora.cs",
+              "RelativeToolTip": "prjCalcKennethSandoval\\clsCalculadora.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T00:48:21.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ksandoval\\source\\repos\\prjCalcKennethSandoval\\prjCalcKennethSandoval\\Program.cs",
+              "RelativeDocumentMoniker": "prjCalcKennethSandoval\\Program.cs",
+              "ToolTip": "C:\\Users\\ksandoval\\source\\repos\\prjCalcKennethSandoval\\prjCalcKennethSandoval\\Program.cs",
+              "RelativeToolTip": "prjCalcKennethSandoval\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T00:40:58.597Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
