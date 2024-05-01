@@ -22,17 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CalculadoraUT.cs",
               "DocumentMoniker": "C:\\Users\\ksandoval\\source\\repos\\prjCalcKennethSandoval\\CalculadoraTest\\CalculadoraUT.cs",
               "RelativeDocumentMoniker": "CalculadoraTest\\CalculadoraUT.cs",
-              "ToolTip": "C:\\Users\\ksandoval\\source\\repos\\prjCalcKennethSandoval\\CalculadoraTest\\CalculadoraUT.cs",
-              "RelativeToolTip": "CalculadoraTest\\CalculadoraUT.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "ToolTip": "C:\\Users\\ksandoval\\source\\repos\\prjCalcKennethSandoval\\CalculadoraTest\\CalculadoraUT.cs*",
+              "RelativeToolTip": "CalculadoraTest\\CalculadoraUT.cs*",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-26T01:06:20.917Z",
               "EditorCaption": ""
@@ -47,8 +51,7 @@
               "RelativeToolTip": "prjCalcKennethSandoval\\clsCalculadora.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T00:48:21.662Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-26T00:48:21.662Z"
             },
             {
               "$type": "Document",
@@ -60,8 +63,7 @@
               "RelativeToolTip": "prjCalcKennethSandoval\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T00:40:58.597Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-26T00:40:58.597Z"
             }
           ]
         }
