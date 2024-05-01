@@ -19,10 +19,7 @@ namespace CalculadoraTest
             //int esperado = 7;
 
 
-
-
-
-            //Actual
+            //Actual;
             int actual = clsCalculadora.Suma(a,b);
 
             //Asert

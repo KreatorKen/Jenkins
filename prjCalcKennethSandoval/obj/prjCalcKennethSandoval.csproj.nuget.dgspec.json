@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OneDrive - LMT CONEXUS GROUP S.A\\Escritorio\\Licenciatura\\CALIDAD DE SOFTWARE I\\Jenkins\\ProyectoFinal\\prjCalcKennethSandoval\\prjCalcKennethSandoval.csproj": {}
+    "C:\\Users\\ksandoval\\source\\repos\\ProyectoFinal\\Semana15\\prjCalcKennethSandoval\\prjCalcKennethSandoval.csproj": {}
   },
   "projects": {
-    "D:\\OneDrive - LMT CONEXUS GROUP S.A\\Escritorio\\Licenciatura\\CALIDAD DE SOFTWARE I\\Jenkins\\ProyectoFinal\\prjCalcKennethSandoval\\prjCalcKennethSandoval.csproj": {
+    "C:\\Users\\ksandoval\\source\\repos\\ProyectoFinal\\Semana15\\prjCalcKennethSandoval\\prjCalcKennethSandoval.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OneDrive - LMT CONEXUS GROUP S.A\\Escritorio\\Licenciatura\\CALIDAD DE SOFTWARE I\\Jenkins\\ProyectoFinal\\prjCalcKennethSandoval\\prjCalcKennethSandoval.csproj",
+        "projectUniqueName": "C:\\Users\\ksandoval\\source\\repos\\ProyectoFinal\\Semana15\\prjCalcKennethSandoval\\prjCalcKennethSandoval.csproj",
         "projectName": "prjCalcKennethSandoval",
-        "projectPath": "D:\\OneDrive - LMT CONEXUS GROUP S.A\\Escritorio\\Licenciatura\\CALIDAD DE SOFTWARE I\\Jenkins\\ProyectoFinal\\prjCalcKennethSandoval\\prjCalcKennethSandoval.csproj",
+        "projectPath": "C:\\Users\\ksandoval\\source\\repos\\ProyectoFinal\\Semana15\\prjCalcKennethSandoval\\prjCalcKennethSandoval.csproj",
         "packagesPath": "C:\\Users\\ksandoval\\.nuget\\packages\\",
-        "outputPath": "D:\\OneDrive - LMT CONEXUS GROUP S.A\\Escritorio\\Licenciatura\\CALIDAD DE SOFTWARE I\\Jenkins\\ProyectoFinal\\prjCalcKennethSandoval\\obj\\",
+        "outputPath": "C:\\Users\\ksandoval\\source\\repos\\ProyectoFinal\\Semana15\\prjCalcKennethSandoval\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ksandoval\\AppData\\Roaming\\NuGet\\NuGet.Config",
