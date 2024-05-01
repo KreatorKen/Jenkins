@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ksandoval\\source\\repos\\prjCalcKennethSandoval\\prjCalcKennethSandoval\\prjCalcKennethSandoval.csproj",
+      "projectUniqueName": "D:\\OneDrive - LMT CONEXUS GROUP S.A\\Escritorio\\Licenciatura\\CALIDAD DE SOFTWARE I\\Jenkins\\ProyectoFinal\\prjCalcKennethSandoval\\prjCalcKennethSandoval.csproj",
       "projectName": "prjCalcKennethSandoval",
-      "projectPath": "C:\\Users\\ksandoval\\source\\repos\\prjCalcKennethSandoval\\prjCalcKennethSandoval\\prjCalcKennethSandoval.csproj",
+      "projectPath": "D:\\OneDrive - LMT CONEXUS GROUP S.A\\Escritorio\\Licenciatura\\CALIDAD DE SOFTWARE I\\Jenkins\\ProyectoFinal\\prjCalcKennethSandoval\\prjCalcKennethSandoval.csproj",
       "packagesPath": "C:\\Users\\ksandoval\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ksandoval\\source\\repos\\prjCalcKennethSandoval\\prjCalcKennethSandoval\\obj\\",
+      "outputPath": "D:\\OneDrive - LMT CONEXUS GROUP S.A\\Escritorio\\Licenciatura\\CALIDAD DE SOFTWARE I\\Jenkins\\ProyectoFinal\\prjCalcKennethSandoval\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ksandoval\\AppData\\Roaming\\NuGet\\NuGet.Config",
